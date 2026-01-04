@@ -32,3 +32,26 @@ Tela de chat individual
 Campo de texto para digitação de mensagens
 
 Layout responsivo
+
+🧠 Aprendizados
+
+Durante o desenvolvimento do XChat, foi possível praticar:
+
+Criação de UI escalável
+
+Componentização
+
+Organização de pastas
+
+Uso de temas e estilos
+
+Boas práticas com Flutter
+
+📌 Observações
+
+Este projeto foi desenvolvido exclusivamente para fins de estudo e evolução profissional em Flutter.
+
+👨‍💻 Autor
+
+Fernando Almeida
+Desenvolvedor Flutter
