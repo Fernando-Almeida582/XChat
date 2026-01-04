@@ -5,65 +5,52 @@ XChat é um projeto de interface de chat desenvolvido em Flutter, criado com o o
 
 ⚠️ Este projeto não possui backend nem funcionalidades reais de chat. Ele é exclusivamente visual.
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
-Praticar construção de layouts complexos em Flutter
+- Praticar construção de layouts complexos em Flutter
 
-Melhorar o uso de widgets como ListView, Stack, Row, Column e Custom Widgets
+- Melhorar o uso de widgets como ListView, Stack, Row, Column e Custom Widgets
 
-Explorar boas práticas de organização de UI
+- Explorar boas práticas de organização de UI
 
-Treinar responsividade e adaptação para diferentes tamanhos de tela
+- Treinar responsividade e adaptação para diferentes tamanhos de tela
 
-🎥 Inspiração
+## 🛠️ Tecnologias Utilizadas
 
-A interface e a ideia geral do projeto foram inspiradas em um vídeo do criador de conteúdo Romain Girou.
+- Flutter
 
-O código foi implementado do zero
+- Dart
 
-Não há reutilização direta de código do vídeo
+- Material Design
 
-O projeto foi adaptado para fins de aprendizado em Flutter
+## 📱 Funcionalidades (UI)
 
-Todo o mérito do conceito visual original vai para o autor do conteúdo.
+- Tela de lista de conversas
 
-🛠️ Tecnologias Utilizadas
+- Tela de chat individual
 
-Flutter
+- Campo de texto para digitação de mensagens
 
-Dart
+- Layout responsivo
 
-Material Design
+## 🧠 Aprendizados
 
-📱 Funcionalidades (UI)
+- Durante o desenvolvimento do XChat, foi possível praticar:
 
-Tela de lista de conversas
+- Criação de UI escalável
 
-Tela de chat individual
+- Componentização
 
-Campo de texto para digitação de mensagens
+- Organização de pastas
 
-Layout responsivo
+- Uso de temas e estilos
 
-🧠 Aprendizados
+- Boas práticas com Flutter
 
-Durante o desenvolvimento do XChat, foi possível praticar:
+## 📌 Observações
 
-Criação de UI escalável
+- Este projeto foi desenvolvido exclusivamente para fins de estudo e evolução profissional em Flutter.
 
-Componentização
+## 👨‍💻 Autor
 
-Organização de pastas
-
-Uso de temas e estilos
-
-Boas práticas com Flutter
-
-📌 Observações
-
-Este projeto foi desenvolvido exclusivamente para fins de estudo e evolução profissional em Flutter.
-
-👨‍💻 Autor
-
-Fernando Almeida
-Desenvolvedor Flutter
+- [@Fernando Almeida](https://github.com/Fernando-Almeida582)
