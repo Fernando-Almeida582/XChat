@@ -15,6 +15,18 @@ Explorar boas práticas de organização de UI
 
 Treinar responsividade e adaptação para diferentes tamanhos de tela
 
+🎥 Inspiração
+
+A interface e a ideia geral do projeto foram inspiradas em um vídeo do criador de conteúdo Romain Girou.
+
+O código foi implementado do zero
+
+Não há reutilização direta de código do vídeo
+
+O projeto foi adaptado para fins de aprendizado em Flutter
+
+Todo o mérito do conceito visual original vai para o autor do conteúdo.
+
 🛠️ Tecnologias Utilizadas
 
 Flutter
