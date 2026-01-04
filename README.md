@@ -1,16 +1,34 @@
-# xchat
 
-A new Flutter project.
+# XChat
 
-## Getting Started
+XChat é um projeto de interface de chat desenvolvido em Flutter, criado com o objetivo de treinar e aprimorar habilidades em desenvolvimento de UI, animações e organização de código.
 
-This project is a starting point for a Flutter application.
+⚠️ Este projeto não possui backend nem funcionalidades reais de chat. Ele é exclusivamente visual.
 
-A few resources to get you started if this is your first Flutter project:
+🎯 Objetivo do Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Praticar construção de layouts complexos em Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Melhorar o uso de widgets como ListView, Stack, Row, Column e Custom Widgets
+
+Explorar boas práticas de organização de UI
+
+Treinar responsividade e adaptação para diferentes tamanhos de tela
+
+🛠️ Tecnologias Utilizadas
+
+Flutter
+
+Dart
+
+Material Design
+
+📱 Funcionalidades (UI)
+
+Tela de lista de conversas
+
+Tela de chat individual
+
+Campo de texto para digitação de mensagens
+
+Layout responsivo
